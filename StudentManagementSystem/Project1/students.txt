@@ -1,0 +1,4 @@
+1,Zulqarnain,K24SW006,Abdul haleem,Mahar MAHAR,3.6
+1,Muhammad Uzair,K24SW024,Manzoor Ali,Sahito,3.8
+1,Naaz,K24SW03,saifullah,baloch,3.6
+1,Ahmed Rehman,K24SW027,Nazim,Arain,2.9
